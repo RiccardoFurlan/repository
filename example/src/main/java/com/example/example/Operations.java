@@ -4,7 +4,6 @@ public class Operations {
 	
 	
 	public Operations() {
-		
 	}
 	
 	public int sum(int num1, int num2) {
